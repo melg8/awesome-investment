@@ -15,3 +15,11 @@ The content is for informational purposes only, you should not construe any such
 * [InvestFuture](https://www.youtube.com/channel/UC-WK8QlQJpAROCrO7dRvqcw)
 * [Oxana Gafaiti](https://www.youtube.com/user/mindspaceru)
 * [MoneyPapa](https://www.youtube.com/channel/UC8aAReoktSVKgTt7jUAM5QA)
+
+# Tools
+* [investing.com](https://in.investing.com/) - Markets, charts, portfolio, tools and more.
+* [investfunds.ru](https://investfunds.ru/) - Markets, charts, ETFs. 
+* [rusetfs.com](https://rusetfs.com/) - Compare ru etfs.
+* [solactive.com](https://www.solactive.com/indices/) Indices.
+* [trades.mindspace.ru](https://trades.mindspace.ru/) - Broad US market overview.
+* [tradingview.com](https://ru.tradingview.com/) Markets, stocks, scripts, charts.
