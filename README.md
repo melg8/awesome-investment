@@ -61,3 +61,8 @@ The content is for informational purposes only, you should not construe any such
 * [Trin Invest](https://www.youtube.com/channel/UC7Uxxthe_yNgcGa7Ted8kMQ)
 * [World Business Channel](https://www.youtube.com/channel/UCcqgJ3jF6UG8ea26kF2-5sg)
 
+## En channels
+* [Michael Jay - Value Investing](https://www.youtube.com/channel/UC7dBqDNlwMfHupqgJvPFZPg)
+* [WisdomInvestor](https://www.youtube.com/user/wisdominvestor)
+
+
