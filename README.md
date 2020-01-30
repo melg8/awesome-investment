@@ -17,6 +17,7 @@ The content is for informational purposes only, you should not construe any such
 * [stockcharts.com](https://stockcharts.com/) Charts, maps of major indexes.
 * [trades.mindspace.ru](https://trades.mindspace.ru/) - Broad US market overview.
 * [tradingview.com](https://ru.tradingview.com/) Markets, stocks, scripts, charts.
+* [zoonova.com](https://www.zoonova.com/) Deep analysis of etfs, stocks, charts, news etc.
 
 ## Portfolios
 * [okama.io](https://okama.io/#/lazy-portfolios) Portfolios backtesting.
