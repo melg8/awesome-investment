@@ -62,6 +62,7 @@ The content is for informational purposes only, you should not construe any such
 * [World Business Channel](https://www.youtube.com/channel/UCcqgJ3jF6UG8ea26kF2-5sg)
 
 ## En channels
+* [Learn to invest](https://www.youtube.com/channel/UCSglJMvX-zSgv3PEJIE_inw)
 * [Michael Jay - Value Investing](https://www.youtube.com/channel/UC7dBqDNlwMfHupqgJvPFZPg)
 * [WisdomInvestor](https://www.youtube.com/user/wisdominvestor)
 
