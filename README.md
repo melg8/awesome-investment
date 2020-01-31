@@ -30,10 +30,10 @@ The content is for informational purposes only, you should not construe any such
 * [nasdaq.com/dividend-stocks](https://www.nasdaq.com/dividend-stocks/) Dividend calendar, dividends, earnings.
 
 ## Etfs
-* [etf.com/](https://www.etf.com/) Etfs finder, screener, database etc.
-* [etfdb.com/](https://etfdb.com/) Etf database, screener, comparison tools.
-* [lazyportfolioetf.com/](http://www.lazyportfolioetf.com/) Lazy portfolios comparison, statistics, etc.
-* [rusetfs.com/](https://rusetfs.com/) Comparison of ru etfs, mutual funds, etc.
+* [etf.com](https://www.etf.com/) Etfs finder, screener, database etc.
+* [etfdb.com](https://etfdb.com/) Etf database, screener, comparison tools.
+* [lazyportfolioetf.com](http://www.lazyportfolioetf.com/) Lazy portfolios comparison, statistics, etc.
+* [rusetfs.com](https://rusetfs.com/) Comparison of ru etfs, mutual funds, etc.
 
 # Social media
 ## Ru blogs
