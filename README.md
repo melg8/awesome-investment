@@ -10,7 +10,8 @@ The content is for informational purposes only, you should not construe any such
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
 * [investing.com](https://in.investing.com/) Markets, charts, portfolio, tools and more.
 * [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
-* [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, ets.
+* [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
+* [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, etc.
 * [rusetfs.com](https://rusetfs.com/) Compare ru etfs.
 * [smart-lab.ru](https://smart-lab.ru/) Trading signals, analytics, books, discussions, 
 * [solactive.com](https://www.solactive.com/indices/) Indices.
