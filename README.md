@@ -8,6 +8,7 @@ The content is for informational purposes only, you should not construe any such
 # Tools
 ## General
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
+* [freestockcharts.com](https://www.freestockcharts.com/)
 * [investing.com](https://in.investing.com/) Markets, charts, portfolio, tools and more.
 * [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
 * [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
