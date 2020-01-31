@@ -46,6 +46,7 @@ The content is for informational purposes only, you should not construe any such
 
 ## Ru channels
 * [Александр Князев](https://www.youtube.com/channel/UC-cAmiU9BnwkmbhuNoB3UHQ)
+* [Вредный инвестор](https://www.youtube.com/channel/UCbhXz_OPX3B0eTimt24PGVQ)
 * [Миша инвестирует](https://www.youtube.com/channel/UCTM-tGx3sNZBYbOyXjAd0sQ)
 * [Красный Циркуль](https://www.youtube.com/channel/UCxbe14qPgfkawAHZSi_8RZg)
 * [Миллионер за 7 лет](https://www.youtube.com/channel/UCCyoZZKxFzzuX-8DAEOIV5Q)
