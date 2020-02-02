@@ -7,11 +7,13 @@ The content is for informational purposes only, you should not construe any such
 
 # Tools
 ## General
+* [finance.yahoo.com/](https://finance.yahoo.com/) Stocks, indexes, screeners, news.
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
 * [freestockcharts.com](https://www.freestockcharts.com/)
 * [investing.com](https://in.investing.com/) Markets, charts, portfolio, tools and more.
 * [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
 * [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
+* [google.com/finance](https://www.google.com/finance) Stocks, indexes, news, etc.
 * [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, etc.
 * [rusetfs.com](https://rusetfs.com/) Compare ru etfs.
 * [smart-lab.ru](https://smart-lab.ru/) Trading signals, analytics, books, discussions, 
@@ -19,7 +21,8 @@ The content is for informational purposes only, you should not construe any such
 * [stockcharts.com](https://stockcharts.com/) Charts, maps of major indexes.
 * [trades.mindspace.ru](https://trades.mindspace.ru/) - Broad US market overview.
 * [tradingview.com](https://ru.tradingview.com/) Markets, stocks, scripts, charts.
-* [zoonova.com](https://www.zoonova.com/) Deep analysis of etfs, stocks, charts, news etc.
+* [ycharts.com](https://ycharts.com/) Stocks analysis, charts, news.
+* [zoonova.com](https://www.zoonova.com/) Analysis of etfs, stocks, charts, news etc.
 
 ## Portfolios
 * [okama.io](https://okama.io/#/lazy-portfolios) Portfolios backtesting.
@@ -30,6 +33,7 @@ The content is for informational purposes only, you should not construe any such
 * [dividend.com](https://www.dividend.com/) High yeld stocks, best dividend stocks, screener, strategies, tools.
 * [investfunds.ru](https://investfunds.ru/stocks-leaders/) Stocks leaders, dividends, capitalization.
 * [nasdaq.com/dividend-stocks](https://www.nasdaq.com/dividend-stocks/) Dividend calendar, dividends, earnings.
+* [dohod.ru](https://www.dohod.ru/ik/analytics/dividend/) Dividend calendar for Ru stocks, ru stocks screener, dividends, earnings.
 
 ## Etfs
 * [etf.com](https://www.etf.com/) Etfs finder, screener, database etc.
