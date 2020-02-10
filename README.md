@@ -16,6 +16,7 @@ The content is for informational purposes only, you should not construe any such
 * [google.com/finance](https://www.google.com/finance) Stocks, indexes, news, etc.
 * [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, etc.
 * [rusetfs.com](https://rusetfs.com/) Compare ru etfs.
+* [seekingalpha.com](https://seekingalpha.com) Markets, stocks, dividends, etfs.
 * [smart-lab.ru](https://smart-lab.ru/) Trading signals, analytics, books, discussions, 
 * [solactive.com](https://www.solactive.com/indices/) Indices.
 * [stockcharts.com](https://stockcharts.com/) Charts, maps of major indexes.
@@ -38,7 +39,7 @@ The content is for informational purposes only, you should not construe any such
 ## Etfs
 * [etf.com](https://www.etf.com/) Etfs finder, screener, database etc.
 * [etfdb.com](https://etfdb.com/) Etf database, screener, comparison tools.
-* [lazyportfolioetf.com](http://www.lazyportfolioetf.com/) Lazy portfolios comparison, statistics, etc.
+* [lazyportfolioetf.com](https://www.lazyportfolioetf.com/) Lazy portfolios comparison, statistics, etc.
 * [rusetfs.com](https://rusetfs.com/) Comparison of ru etfs, mutual funds, etc.
 
 # Social media
@@ -48,7 +49,7 @@ The content is for informational purposes only, you should not construe any such
 * [hranidengi.ru](https://hranidengi.ru) Bank deposits, brokers.
 * [investfuture.ru](https://investfuture.ru/) News, analytics, stocks, indexes, calendars, brokers, funds.
 * [mindspace.ru](https://mindspace.ru/) Trading, investing, technical analysis, brokers.
-* [qbfam.ru](http://www.qbfam.ru/analytics/reviews/aktsii-rosta-vs-ctoimostnye-aktsii/) Analytics, stategies, markets, etfs to choose.
+* [qbfam.ru](https://www.qbfam.ru/analytics/reviews/aktsii-rosta-vs-ctoimostnye-aktsii/) Analytics, stategies, markets, etfs to choose.
 
 ## Ru channels
 * [Александр Князев](https://www.youtube.com/channel/UC-cAmiU9BnwkmbhuNoB3UHQ)
