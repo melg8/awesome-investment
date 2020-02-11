@@ -14,6 +14,7 @@ The content is for informational purposes only, you should not construe any such
 * [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
 * [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
 * [google.com/finance](https://www.google.com/finance) Stocks, indexes, news, etc.
+* [marketinout.com](https://www.marketinout.com/) Stocks, screners, f-score, m-score, etc.
 * [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, etc.
 * [rusetfs.com](https://rusetfs.com/) Compare ru etfs.
 * [seekingalpha.com](https://seekingalpha.com) Markets, stocks, dividends, etfs.
