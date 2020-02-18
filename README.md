@@ -50,6 +50,7 @@ The content is for informational purposes only, you should not construe any such
 * [hranidengi.ru](https://hranidengi.ru) Bank deposits, brokers.
 * [investfuture.ru](https://investfuture.ru/) News, analytics, stocks, indexes, calendars, brokers, funds.
 * [mindspace.ru](https://mindspace.ru/) Trading, investing, technical analysis, brokers.
+* [sostoyanie.com](https://sostoyanie.com/) Personal investing. 
 * [qbfam.ru](https://www.qbfam.ru/analytics/reviews/aktsii-rosta-vs-ctoimostnye-aktsii/) Analytics, stategies, markets, etfs to choose.
 
 ## Ru channels
