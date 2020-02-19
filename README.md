@@ -16,6 +16,7 @@ The content is for informational purposes only, you should not construe any such
 * [google.com/finance](https://www.google.com/finance) Stocks, indexes, news, etc.
 * [marketinout.com](https://www.marketinout.com/) Stocks, screners, f-score, m-score, etc.
 * [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, etc.
+* [researchaffiliates.com](https://interactive.researchaffiliates.com/asset-allocation) asset allocation, cape analysis, etc.
 * [rusetfs.com](https://rusetfs.com/) Compare ru etfs.
 * [seekingalpha.com](https://seekingalpha.com) Markets, stocks, dividends, etfs.
 * [smart-lab.ru](https://smart-lab.ru/) Trading signals, analytics, books, discussions, 
