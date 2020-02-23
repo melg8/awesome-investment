@@ -78,7 +78,8 @@ The content is for informational purposes only, you should not construe any such
 * [Graham Stephan](https://www.youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ)
 * [Learn to invest](https://www.youtube.com/channel/UCSglJMvX-zSgv3PEJIE_inw)
 * [Michael Jay - Value Investing](https://www.youtube.com/channel/UC7dBqDNlwMfHupqgJvPFZPg)
-* [WisdomInvestor](https://www.youtube.com/user/wisdominvestor)
 * [MICHAEL DERISO - 0 to Infinity](https://www.youtube.com/channel/UCecHI3qhgbMMnDQQb0_tuPg)
+* [shadowtrader01](https://www.youtube.com/channel/UCV00elXN8Z0vrFIAZu3rIKw)
+* [WisdomInvestor](https://www.youtube.com/user/wisdominvestor)
 
 
