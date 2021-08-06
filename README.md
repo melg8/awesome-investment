@@ -10,6 +10,7 @@ The content is for informational purposes only, you should not construe any such
 * [finance.yahoo.com/](https://finance.yahoo.com/) Stocks, indexes, screeners, news.
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
 * [freestockcharts.com](https://www.freestockcharts.com/)
+* [ghostfol.io](https://ghostfol.io/) Open Source Wealth Management Software: Stocks, etfs, cryptocurrencies, asset allocation.
 * [investing.com](https://in.investing.com/) Markets, charts, portfolio, tools and more.
 * [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
 * [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
