@@ -62,7 +62,6 @@ The content is for informational purposes only, you should not construe any such
 * [Дмитрий Солодин](https://www.youtube.com/channel/UCDiQvcLWE_afxVzGzdCxxYA)
 * [Миша инвестирует](https://www.youtube.com/channel/UCTM-tGx3sNZBYbOyXjAd0sQ)
 * [Красный Циркуль](https://www.youtube.com/channel/UCxbe14qPgfkawAHZSi_8RZg)
-* [Миллионер за 7 лет](https://www.youtube.com/channel/UCCyoZZKxFzzuX-8DAEOIV5Q)
 * [Опыт инвестора](https://www.youtube.com/channel/UC7RMUZkM3FPGFgQXqN8gB9A)
 * [Проект FinWebinar](https://www.youtube.com/channel/UCpFFEzNskcqWf1E3D-WkdUg)
 * [Рост Сбережений](https://www.youtube.com/channel/UCOFW-XKXttGopIFx2N-jSvg)
