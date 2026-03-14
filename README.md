@@ -12,7 +12,8 @@ The content is for informational purposes only, you should not construe any such
 * [freestockcharts.com](https://www.freestockcharts.com/)
 * [ghostfol.io](https://ghostfol.io/) Open Source Wealth Management Software: Stocks, etfs, cryptocurrencies, asset allocation.
 * [investing.com](https://in.investing.com/) Markets, charts, portfolio, tools and more.
-* [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
+* [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs.
+* [keeprule.com](https://keeprule.com) AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
 * [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
 * [google.com/finance](https://www.google.com/finance) Stocks, indexes, news, etc.
 * [marketinout.com](https://www.marketinout.com/) Stocks, screners, f-score, m-score, etc.
