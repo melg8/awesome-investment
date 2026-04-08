@@ -7,6 +7,7 @@ The content is for informational purposes only, you should not construe any such
 
 # Tools
 ## General
+- [CalcFi](https://calcfi.app) - CalcFi - Free investment calculators (compound interest, FIRE, dividend income, portfolio rebalancing, and 500+ more).
 * [finance.yahoo.com/](https://finance.yahoo.com/) Stocks, indexes, screeners, news.
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
 * [freestockcharts.com](https://www.freestockcharts.com/)
