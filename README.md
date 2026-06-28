@@ -7,6 +7,7 @@ The content is for informational purposes only, you should not construe any such
 
 # Tools
 ## General
+* [filingfirehose.com](https://filingfirehose.com/) Free per-ticker SEC forensic risk score (cyber, dilution, restatement, officer departures, bankruptcy) from 8-K, 10-K, 10-Q, S-3 filings.
 * [finance.yahoo.com/](https://finance.yahoo.com/) Stocks, indexes, screeners, news.
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
 * [freestockcharts.com](https://www.freestockcharts.com/)
