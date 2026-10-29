@@ -7,6 +7,7 @@ The content is for informational purposes only, you should not construe any such
 
 # Tools
 ## General
+* [DisconfirmAI](https://disconfirmai.com/en) Investment research platform that seeks disconfirming evidence before conviction. Public reading, filings research, conditional radar, personal framework. Free valuation tools.
 * [finance.yahoo.com/](https://finance.yahoo.com/) Stocks, indexes, screeners, news.
 * [finviz.com](https://finviz.com) Screener, maps, portfolio.
 * [freestockcharts.com](https://www.freestockcharts.com/)
